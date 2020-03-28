@@ -18,6 +18,6 @@ Study app for the 10th Omnistack week from Rocketseat
 ## Mobile app
 ![Mobile app list incidents](https://i.imgur.com/KxYLx2T.png)
 
-![Mobile app help screen](https://i.imgur.com/Yz1X7Qf.png)
+![Mobile app help screen](https://i.imgur.com/zUBU8YK.png)
 
 
